@@ -9,6 +9,8 @@ This presentation is part of CWRU's [National Public Health Week Speaker Series]
 
 ## Sources and Resources
 
+A [handout of the slides is available here](https://github.com/THOMASELOVE/adventures/blob/master/Love_2018-04-05_Adventures.pdf).
+
 ### Better Health Partnership
 
 - Better Health Partnership can be found online at http://www.betterhealthpartnership.org/
