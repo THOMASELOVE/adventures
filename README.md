@@ -5,7 +5,13 @@ Slides and materials from a presentation by Thomas E. Love, Ph.D. given on 2018-
 **Adventures at [Better Health Partnership](http://www.betterhealthpartnership.org/data_center/)**
 Learning as a Community (aided by Electronic Health Records) to make an impact on the Health of Northeast Ohio's Adults
 
-This presentation is part of CWRU's [National Public Health Week Speaker Series](http://thedaily.case.edu/national-public-health-week/) and I am grateful to the organizers (particularly Courtney Baker, Kara Quaid, Lingpeng Shan and Frances Wang) for including me.
+This presentation is part of CWRU's [National Public Health Week Speaker Series](http://thedaily.case.edu/national-public-health-week/).
+
+## Acknowledgments
+
+- I am grateful to the organizers (particularly Courtney Baker, Kara Quaid, Lingpeng Shan and Frances Wang) for including me. 
+- I'd also like to express my sincere thanks to all who took the time to attend the session.
+- I'm also seriously indebted to my many friends, colleagues, teachers and students who have made a meaningful contribution to *Better Health Partnership* since its beginning in 2007.
 
 ## Sources and Resources
 
