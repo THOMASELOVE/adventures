@@ -37,6 +37,7 @@ Publications based on Better Health Partnership's work include:
 - The description of the elements of Data Science comes from Grolemund and Wickham's [R for Data Science](http://r4ds.had.co.nz/)
 - The FacePalm cartoon came to me [from this link](https://whatsthebigdata.com/2015/10/17/how-to-become-a-unicorn-data-scientist-and-make-more-than-240000/) at whatsthebigdata.com, but was originally published in *Forbes*.
 - This set of comments by Rafael Irizarry on the [Draft NIH Strategic Plan for Data Science](https://simplystatistics.org/2018/04/02/input-on-the-draft-nih-strategic-plan-for-data-science/) was illuminating for me.
+- You may be interested in [this talk on Storytelling using R](https://www.rstudio.com/resources/videos/storytelling-with-r/) by Olga Pierce. At any rate, I enjoyed it.
 
 ### 35 Years of American Death, at FiveThirtyEight.com
 
