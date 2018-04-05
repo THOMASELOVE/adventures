@@ -21,7 +21,7 @@ A [handout of the slides is available here](https://github.com/THOMASELOVE/adven
 
 - Better Health Partnership can be found online at http://www.betterhealthpartnership.org/
 - Its Data Center is located at http://www.betterhealthpartnership.org/data_center/ where current reports are housed.
-- The interactive graphic of social determinants and children's health outcomes I displayed is [found at this link now](http://betterhealthpartnership.org/members/aTestPlotsCHIslider2.asp), but a new version will appear soon.
+- The interactive tool for exploring social determinants and children's health outcomes is [at this link](http://betterhealthpartnership.org/members/chiToolWeightBP.asp).
 
 Publications based on Better Health Partnership's work include:
 
