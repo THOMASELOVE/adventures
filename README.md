@@ -46,6 +46,6 @@ Publications based on Better Health Partnership's work include:
 
 ## Pictures from the Session
 
-![](https://raw.githubusercontent.com/THOMASELOVE/adventures/master/2018-04-06_photo1.jpg)
+![](https://raw.githubusercontent.com/THOMASELOVE/adventures/master/2018-04-06_photo1.png)
 
-![](https://raw.githubusercontent.com/THOMASELOVE/adventures/master/2018-04-06_photo2.jpg)
+![](https://raw.githubusercontent.com/THOMASELOVE/adventures/master/2018-04-06_photo2.png)
