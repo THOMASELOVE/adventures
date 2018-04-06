@@ -44,8 +44,8 @@ Publications based on Better Health Partnership's work include:
 - At FiveThirtyEight.com, I mentioned the article: [More Americans Are Dying From Suicide, Drug Use And Diarrhea](https://fivethirtyeight.com/features/more-americans-are-dying-from-suicide-drug-use-and-diarrhea/) by Ella Koeze and Anna Maria Barry-Jester.
 - I also presented some results from FiveThirtyEight.com's interactive graphic by Ella Koeze: [35 Years of American Death](https://projects.fivethirtyeight.com/mortality-rates-united-states/).
 
-## Pictures from the Session
+## Pictures from the Session 
 
-![](https://raw.githubusercontent.com/THOMASELOVE/adventures/master/2018-04-06_1.PNG)
+![Courtesy Jack McDonnell](https://raw.githubusercontent.com/THOMASELOVE/adventures/master/2018-04-06_1.PNG)
 
 ![](https://raw.githubusercontent.com/THOMASELOVE/adventures/master/2018-04-06_2.PNG)
