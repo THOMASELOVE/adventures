@@ -10,7 +10,7 @@ This presentation is part of CWRU's [National Public Health Week Speaker Series]
 ## Acknowledgments
 
 - I am grateful to the organizers (particularly Courtney Baker, Kara Quaid, Lingpeng Shan and Frances Wang) for including me. 
-- I'd also like to express my sincere thanks to all who took the time to attend the session.
+- I'd also like to express my sincere thanks to all who took the time to attend the session. The presentation drew a standing-room-only crowd.
 - I'm also seriously indebted to my many friends, colleagues, teachers and students who have made a meaningful contribution to *Better Health Partnership* since its beginning in 2007.
 
 ## Sources and Resources
@@ -44,4 +44,8 @@ Publications based on Better Health Partnership's work include:
 - At FiveThirtyEight.com, I mentioned the article: [More Americans Are Dying From Suicide, Drug Use And Diarrhea](https://fivethirtyeight.com/features/more-americans-are-dying-from-suicide-drug-use-and-diarrhea/) by Ella Koeze and Anna Maria Barry-Jester.
 - I also presented some results from FiveThirtyEight.com's interactive graphic by Ella Koeze: [35 Years of American Death](https://projects.fivethirtyeight.com/mortality-rates-united-states/).
 
+## Pictures from the Session
 
+![](https://raw.githubusercontent.com/THOMASELOVE/adventures/master/2018-04-06_photo1.jpg)
+
+![](https://raw.githubusercontent.com/THOMASELOVE/adventures/master/2018-04-06_photo2.jpg)
