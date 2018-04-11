@@ -48,6 +48,6 @@ Publications based on Better Health Partnership's work include:
 
 ![](https://raw.githubusercontent.com/THOMASELOVE/adventures/master/2018-04-06_1.PNG) *Courtesy Jack McDonnell*
 
-![](https://raw.githubusercontent.com/THOMASELOVE/adventures/master/2018-04-06_2.PNG)
+![](https://raw.githubusercontent.com/THOMASELOVE/adventures/master/2018-04-06_2.PNG) *Courtesy Thomas Love and the attendees*
 
 ![](https://raw.githubusercontent.com/THOMASELOVE/adventures/master/2018-04-06_3.PNG) *Courtesy Grace Park*
